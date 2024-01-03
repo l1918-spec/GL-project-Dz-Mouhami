@@ -1,0 +1,23 @@
+.iner-container{
+    gap: 1.5rem;
+    background: linear-gradient(270deg, 	#152433 0%,  rgb(57, 66, 110) 100%);
+    padding: 2rem;
+    border-radius: 10px;
+    border: 6px solid #44464e;
+    text-align: center;
+}
+
+.iner-container .primaryText{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+.iner-container .secondaryText{
+    color: rgba(255, 255, 255, 0.587);
+}
+.iner-container .button {
+    background: #000000;
+    border: 2px solid white;
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+    padding: 1rem;
+}

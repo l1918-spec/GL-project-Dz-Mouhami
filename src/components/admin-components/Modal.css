@@ -1,0 +1,48 @@
+.modal {
+    border-radius: 20px;
+    padding: 2rem;
+    background-color: white;
+    width: 25em;
+}
+
+.modal .btn {
+    display: block;
+    margin: auto;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 4rem;
+}
+
+.form-group-last {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    padding: 0.3rem;
+    font-size: 1rem;
+}
+
+.form-group label {
+    margin-bottom: 1rem;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.error {
+    background-color: #f8d7da;
+    color: #df4759;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    margin-bottom: 1rem;
+}
+

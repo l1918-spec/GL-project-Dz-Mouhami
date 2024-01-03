@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BENBATTOUCHE FOUAD TAREK",
+    "review": "47,043",
+    "detail": "Catégories Droit administratif, Droit bancaire, Droit civil, Droit commercial, Droit de l'environnement, Droit de l'immobilier, Droit de la consommation",
+    "image": "./r1.png"
+  },
+  {
+    "name": "MAITRE MISSOUM KAMEL",
+    "review": "66,353",
+    "detail": "Droit administratif, Droit commercial, Droit de l'environnement, Droit de l'immobilier, Droit des assurances, Droit des transports, Droit du sport, Droit pénal, Droit routier",
+    "image": "./r2.png"
+  },
+  {
+    "name": "MAITRE FADHEL ATTAR",
+    "review": "35,853",
+    "detail": "Droit administratif, Droit Affaires, Droit bancaire, Droit civil",
+    "image": "./r1.png"
+  },
+  {
+    "name": "BENBATTOUCHE FOUAD TAREK",
+    "review": "47,043",
+    "detail": "Catégories Droit administratif, Droit bancaire, Droit civil, Droit commercial, Droit de l'environnement, Droit de l'immobilier, Droit de la consommation",
+    "image": "./r1.png"
+  },
+  {
+    "name": "MAITRE MISSOUM KAMEL",
+    "review": "66,353",
+    "detail": "Droit administratif, Droit commercial, Droit de l'environnement, Droit de l'immobilier, Droit des assurances, Droit des transports, Droit du sport, Droit pénal, Droit routier",
+    "image": "./r2.png"
+  },
+  {
+    "name": "MAITRE FADHEL ATTAR",
+    "review": "35,853",
+    "detail": "Droit administratif, Droit Affaires, Droit bancaire, Droit civil",
+    "image": "./r1.png"
+  }
+]
